@@ -1,0 +1,65 @@
+/*
+Feather - #77C9D4
+Marine - #57BC90
+Forest - #015249
+Sleek Grey - #A5A5AF
+*/
+html * {
+    font-family: sans-serif;
+}
+body {
+    margin: 0;
+}
+section {
+    text-align: center;
+    margin: 0;
+}
+.what_left_text{
+    display: inline-block;
+    width: 65%;
+}
+.what_right_image{
+    display: inline-block;
+    width: 30%;
+}
+.corro_logo{
+    margin-top: 50px;
+    width: 300px;
+}
+.what_header{
+    font-size: 2.3em;
+    margin: 0;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 2px;
+    vertical-align: text-top;
+}
+.what_body{
+    padding-bottom: 2em;
+    font-size: 1.45em;
+    margin: 0 auto;
+    width: 70%;
+}
+.LAVOSI_header{
+    padding-top: 3em;
+    padding-bottom: 3em;
+}
+.LAVOSI_body{
+    padding-bottom: 2em;
+    text-align: center;
+    margin:0 auto;
+    width: 50%;
+    font-size: 1.2em;
+}
+
+
+/* contact.html */
+.static_info{
+    padding-left: 3em;
+} 
+.static_info_div{
+    display:inline;
+}
+.dynamic_info{
+    padding-left: 3em;
+}
