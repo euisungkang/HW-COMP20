@@ -1,0 +1,18 @@
+list {
+  background-color: black;
+  padding-bottom: 2em;
+}
+song {
+  text-align: center;
+}
+title {
+  font-size: 1.6em;
+  padding-top: 1.5em;
+}
+artist, title, genre, year {
+  display: block;
+}
+list, song, artist, title, genre, year {
+  color: white;
+  font-family: sans-serif;
+}
