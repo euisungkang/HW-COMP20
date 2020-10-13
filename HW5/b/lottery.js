@@ -19,7 +19,7 @@ process_winning_numbers = (numbers, luckyBall) => {
   for (var i = 0; i < 5; i++) {
     winning_numbers[i] = get_random_from_range(1, 48);
   }
-  numbers.sort();
+  numbers.sort((a, b) => {return a - b});
   winning_luckyBall = get_random_from_range(1, 18);
 
   // Eventhough we use a nested for loop, the runtime is always O(25) = O(1).
@@ -30,7 +30,7 @@ process_winning_numbers = (numbers, luckyBall) => {
         win_counter++;
     }
   }
-  winning_numbers.sort();
+  winning_numbers.sort((a, b) => {return a - b});
 
   /* The winnings map determins luckyBall wins by +0.5. Look at
      create_winnings_map() */
