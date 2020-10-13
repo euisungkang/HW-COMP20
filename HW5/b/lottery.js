@@ -4,8 +4,7 @@ var luckyBall;
 /* Prompts the user for their random 5 numbers and their lucky ball. Function
    will assume the correct inputs are within expected parameters */
 prompt_user = () => {
-  numbers = prompt("Enter winning numbers separated by a space")
-                                                         .split(' ').sort();
+  numbers = prompt("Enter winning numbers separated by a space").split(' ');
   luckyBall = prompt("Enter Lucky Ball number");
   process_winning_numbers(numbers, luckyBall);
 }
