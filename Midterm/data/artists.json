@@ -1,0 +1,126 @@
+{
+  "artist": [
+    {
+      "id": "joji",
+      "name": "Joji",
+      "profile": "media/joji/joji.png",
+      "albums": [
+        {
+          "album_name": "Nectar",
+          "cover": "media/joji/Nectar.png",
+          "year_release": "2020"
+        },
+        {
+          "album_name": "Ballads 1",
+          "cover": "media/joji/Ballads1.png",
+          "year_release": "2018"
+        },
+        {
+          "album_name": "In Tongues",
+          "cover": "media/joji/InTongues.jpg",
+          "year_release": "2017"
+        }
+      ]
+    },
+    {
+      "id": "richbrian",
+      "name": "Rich Brian",
+      "profile": "media/richbrian/richbrian.jpg",
+      "albums": [
+        {
+          "album_name": "1999",
+          "cover": "media/richbrian/1999.jpg",
+          "year_release": "2020"
+        },
+        {
+          "album_name": "The Sailor",
+          "cover": "media/richbrian/Sailor.jpg",
+          "year_release": "2019"
+        },
+        {
+          "album_name": "Amen",
+          "cover": "media/richbrian/Amen.jpg",
+          "year_release": "2018"
+        }
+      ]
+    },
+    {
+      "id": "niki",
+      "name": "Niki",
+      "profile": "media/niki/Niki.jpg",
+      "albums": [
+        {
+          "album_name": "Moonchild",
+          "cover": "media/niki/moonchild.jpeg",
+          "year_release": "2020"
+        },
+        {
+          "album_name": "wanna take this downtown?",
+          "cover": "media/niki/downtown.png",
+          "year_release": "2019"
+        },
+        {
+          "album_name": "Zephyr",
+          "cover": "media/niki/Zephyr.jpg",
+          "year_release": "2018"
+        }
+      ]
+    },
+    {
+      "id": "higherbrothers",
+      "name": "Higher Brothers",
+      "profile": "media/higherbrothers/higher.png",
+      "albums": [
+        {
+          "album_name": "Five Stars",
+          "cover": "media/higherbrothers/fivestars.jpg",
+          "year_release": "2019"
+        },
+        {
+          "album_name": "Black Cab",
+          "cover": "media/higherbrothers/blackcab.jpg",
+          "year_release": "2017"
+        }
+      ]
+    },
+    {
+      "id": "august08",
+      "name": "August 08",
+      "profile": "media/august08/august.jpg",
+      "albums": [
+        {
+          "album_name": "Happy Endings",
+          "cover": "media/august08/happyendings.jpg",
+          "year_release": "2020"
+        },
+        {
+          "album_name": "Father",
+          "cover": "media/august08/father.jpg",
+          "year_release": "2018"
+        }
+      ]
+    },
+    {
+      "id": "keithape",
+      "name": "Keith Ape",
+      "profile": "media/keithape/keithape.png",
+      "albums": [
+        {
+          "album_name": "Born Again",
+          "cover": "media/keithape/bornagain.jpg",
+          "year_release": "2018"
+        },
+        {
+          "album_name": "Project: Brainwash",
+          "cover": "media/keithape/brainwash.jpg",
+          "year_release": "2014"
+        },
+        {
+          "album_name": "Orcatape",
+          "cover": "media/keithape/orcatape.jpg",
+          "year_release": "2013"
+        }
+      ]
+    }
+  ]
+}

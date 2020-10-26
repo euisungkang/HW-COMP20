@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+
+<head>
+  <title>Learn More</title>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src = "scripts/artistPage.js"></script>
+  <link href="stylesheets/navbar.css" rel="stylesheet" type="text/css" />
+  <link href="stylesheets/artistPage.css" rel="stylesheet" type="text/css" />
+  <style>
+    html * {
+      background-color: black;
+      text-align: center;
+      font-family: sans-serif;
+      color: white;
+      scroll-behavior: smooth;
+    }
+  </style>
+</head>
+
+<body>
+  <div class = "navBarDiv">
+    <ul>
+      <li><a class = "logo" href="home.html"><img src="media/88white.png" class="navLogo" alt="88rising logo"></a></li>
+      <li><a href="home.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a class = "active" href="artists.html">Artists</a></li>
+      <li><a href="HITC.html">Head In The Clouds</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </div>
+
+  <div id = "display">
+    <img id = "artistProfile"/>
+    <div>
+      <h2><span id="name"></span></h2>
+      <div id="albumdiv"></div>
+    </div>
+  </div>
+</body>
