@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+
+<head>
+  <title>Contact Us</title>
+  <script src = "scripts/contact.js"></script>
+  <link href="stylesheets/navbar.css" rel="stylesheet" type="text/css" />
+  <link href="stylesheets/contact.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <div class="navBarDiv">
+    <ul>
+      <li><a class="logo" href="home.html"><img src="media/88white.png" class="navLogo" alt="88rising logo"></a></li>
+      <li><a href="home.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="artists.html">Artists</a></li>
+      <li><a href="HITC.html">Head In The Clouds</a></li>
+      <li><a class="active" href="contact.html">Contact</a></li>
+    </ul>
+  </div>
+
+  <h1>Contact Us</h1>
+  <form id ="contactForm" name = "contact">
+    <div id = "inputDivision">
+      <label for = "email">Email Address: </label> <br/>
+      <input type = "email" id = "email" name = "email" placeholder = "example@gmail.com"> <br/>
+    </div>
+    <div id = "inputDivision">
+      <label for = "subject">Subject: </label> <br />
+      <input type = "text" id = "subject" name = "subject" placeholder = "Subject"> <br/>
+    </div>
+    <div id = "inputDivision">
+      <label for = "body">Comments</label> <br/>
+      <input type = "textarea" id = "body" name = "body" placeholder = "Enter text here"/> <br />
+    </div>
+    <input id = "button" type = "submit" value = "Submit" onclick="validateForm()"/>
+  </form>
+</body>

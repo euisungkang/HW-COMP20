@@ -4,9 +4,6 @@ html * {
   font-family: sans-serif;
   color: white;
 }
-#aboutBody {
-  margin-top: 70px;
-}
 #description {
   display:flex;
   align-items:center;
@@ -20,7 +17,7 @@ html * {
   text-align: center;
   margin: 50px;
 }
-#gue88 {
+#video {
   flex-basis: 45%;
 }
 #quote {
