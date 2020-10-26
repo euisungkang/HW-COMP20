@@ -2,7 +2,8 @@
   margin-top: 50px;
 }
 .artistProfile {
-  height: 60vh;
+  max-width: 45%;
+  
 }
 .artistBox {
   display:flex;
