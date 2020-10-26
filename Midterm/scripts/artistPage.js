@@ -24,7 +24,11 @@ $(document).ready(function () {
               '<br/>' + artist.albums[i].year_release + '</figure>';
       albumdiv.append(buffer);
     }
-    albumdiv.append('<br/>');
+    release = $('#release');
+    var player;
+    player = '<iframe width = "70%" height = "400" src = "' +
+              artist.latest_release + '"></iframe>';
+    release.append(player);
   }).catch(err => {
     console.log(err);
   })

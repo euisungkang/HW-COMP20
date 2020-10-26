@@ -20,7 +20,8 @@
           "cover": "media/joji/InTongues.jpg",
           "year_release": "2017"
         }
-      ]
+      ],
+      "latest_release": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1132630420&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
     },
     {
       "id": "richbrian",
@@ -42,7 +43,8 @@
           "cover": "media/richbrian/Amen.jpg",
           "year_release": "2018"
         }
-      ]
+      ],
+      "latest_release": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/950319202&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
     },
     {
       "id": "niki",
@@ -64,7 +66,8 @@
           "cover": "media/niki/Zephyr.jpg",
           "year_release": "2018"
         }
-      ]
+      ],
+      "latest_release": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1126578421&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
     },
     {
       "id": "higherbrothers",
@@ -81,7 +84,8 @@
           "cover": "media/higherbrothers/blackcab.jpg",
           "year_release": "2017"
         }
-      ]
+      ],
+      "latest_release": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/714272781&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
     },
     {
       "id": "august08",
@@ -98,7 +102,8 @@
           "cover": "media/august08/father.jpg",
           "year_release": "2018"
         }
-      ]
+      ],
+      "latest_release": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/872249413&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
     },
     {
       "id": "keithape",
@@ -120,7 +125,8 @@
           "cover": "media/keithape/orcatape.jpg",
           "year_release": "2013"
         }
-      ]
+      ],
+      "latest_release": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/621473994&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
     }
   ]
 }
