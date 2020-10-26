@@ -42,12 +42,12 @@
 }
 
 @media screen and (max-width: 1200px) {
-  html * {
+  .navBarDiv a {
     font-size: 1.2em;
   }
 }
 @media screen and (max-width: 1000px) {
-  html * {
+  .navBarDiv a {
     font-size: 1.1em;
   }
 }

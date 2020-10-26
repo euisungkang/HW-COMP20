@@ -24,3 +24,9 @@ html * {
   font-size: 1.2em;
   flex-basis: 60%;
 }
+
+@media screen and (max-width: 1200px) {
+  #description{
+    flex-direction: column-reverse; 
+  }
+}
