@@ -1,0 +1,13 @@
+html * {
+  background-color: black;
+  font-family: sans-serif;
+  text-align: center;
+  color: white;
+}
+#banner {
+  width: 50%;
+}
+
+.HITCbody {
+  margin-top: 50px;
+}

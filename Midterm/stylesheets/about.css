@@ -1,0 +1,29 @@
+html * {
+  background-color: black;
+  text-align: center;
+  font-family: sans-serif;
+  color: white;
+}
+#aboutBody {
+  margin-top: 70px;
+}
+#description {
+  display:flex;
+  align-items:center;
+  flex-direction: row;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+#description div {
+  flex-basis: 28%;
+  line-height: 20px;
+  text-align: center;
+  margin: 50px;
+}
+#gue88 {
+  flex-basis: 45%;
+}
+#quote {
+  font-size: 1.2em;
+  flex-basis: 60%;
+}

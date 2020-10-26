@@ -1,0 +1,42 @@
+/* Navbar */
+.navBarDiv {
+  left: 0;
+  top: 0;
+  width: 100%;
+}
+.navBarDiv ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  top: 0;
+  /* position: -webkit-sticky; 
+  position: sticky; */
+
+  display: flex;
+  align-items: center;
+}
+.navBarDiv li {
+  float: left;
+  border-right: 1px solid #bbb;
+}
+.navBarDiv li:last-child, .navBarDiv li:first-child {
+  border-right: none;
+}
+.navBarDiv a {
+  color: white;
+  display: block;
+  padding: 8px;
+  text-decoration: none;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.navLogo {
+  height: 2em;
+  margin: 0;
+}
+.active {
+  border-bottom: 2px solid white;
+}
+.navBarDiv li a:hover:not(.active):not(.logo) {
+  border-bottom: 1px solid white;
+}

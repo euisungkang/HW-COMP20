@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<head>
+  <title>88rising</title>
+  <link href="stylesheets/navbar.css" rel="stylesheet" type="text/css" />
+  <style>
+    html * {
+      text-align: center;
+      background-color: black;
+      font-family: sans-serif;
+    }
+    #homeVideo {
+      right: 0;
+      top: 0;
+      width: 100%;
+      height: 100vh;
+    }
+    .loopVid {
+      display: block;
+      margin: 0 auto;
+    }
+  </style>
+</head>
+
+<body>
+  <div class = "navBarDiv">
+    <ul>
+      <li><a class = "logo" href="home.html"><img src="media/88white.png" class="navLogo" alt="88rising logo"></a></li>
+      <li><a class = "active" href="home.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="artists.html">Artists</a></li>
+      <li><a href="HITC.html">Head In The Clouds</a></li>
+    </ul>
+  </div>
+
+  <div class = "loopVid">
+    <video autoplay muted loop id="homeVideo">
+      <source src="media/home.mp4" type="video/mp4">
+    </video>
+  </div>
+
+</body>
