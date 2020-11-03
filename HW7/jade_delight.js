@@ -46,7 +46,7 @@ $(window).on('load', () => {
     var city = $('input[name="city"]').val();
 
     // Validate phone and last name
-    if (!validatePhoneNumber(phone) && !lname) {
+    if (!validatePhoneNumber(phone) || !lname) {
       valid = false;
       alert("Please enter a valid phone and/or last name");
     }
