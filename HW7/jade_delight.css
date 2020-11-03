@@ -10,7 +10,7 @@ body {
     display: flex;
     flex-direction: column;
     flex-basis: 50px;
-    background: rgba(0,0,0,.68);
+    background: rgba(0,0,0,.75);
     margin-left: auto;
     margin-right: auto;
     width: 40%;
