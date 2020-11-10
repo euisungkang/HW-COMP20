@@ -9,10 +9,3 @@ h2 {
   padding-bottom: 0;
   margin-bottom: 0;
 }
-artist, title, genre, year {
-  display: block;
-}
-list, song, artist, title, genre, year {
-  color: white;
-  font-family: sans-serif;
-}
