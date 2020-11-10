@@ -1,0 +1,64 @@
+{
+  "songs": [
+    {
+      "artist": "Joji",
+      "title": "SLOW DANCING IN THE DARK",
+      "genre": ["RnB", "Soul"],
+      "year": "2018"
+    },
+    {
+      "artist": "Amine",
+      "title": "Caroline",
+      "genre": ["Hip Hop", "Rap"],
+      "year": "2016"
+    },
+    {
+      "artist": "Rich Brian",
+      "title": "History",
+      "genre": ["Hip Hop", "Rap"],
+      "year": "2018"
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "title": "King Kunta",
+      "genre": ["Hip Hop", "Funk"],
+      "year": "2015"
+    },
+    {
+      "artist": "Travis Scott feat. Kendrick Lamar",
+      "title": "goosebumps",
+      "genre": ["Trap", "Rap"],
+      "year": "2017"
+    },
+    {
+      "artist":"Drake feat. Jay Z",
+      "title": "Pound Cake",
+      "genre": ["Hip Hop", "Rap"],
+      "year": "2013"
+    },
+    {
+      "artist": "Jay Z",
+      "title": "The Story of O.J.",
+      "genre": ["Hip Hop", "Rap"],
+      "year": "2017"
+    },
+    {
+      "artist": "Mac Miller",
+      "title": "Self Care",
+      "genre": ["Hip Hop", "Rap"],
+      "year": "2018"
+    },
+    {
+      "artist": "Anderson .Paak",
+      "title": "Bubblin",
+      "genre": ["Hip Hop", "Rap"],
+      "year": "2018"
+    },
+    {
+      "artist": "XXXTentacion",
+      "title": "Moonlight",
+      "genre": ["Trap", "Rap"],
+      "year": "2018"
+    }
+  ]
+}
